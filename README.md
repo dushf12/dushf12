@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Dushyanth B.</h1>
+<h1 align="center">Hey there 👋, I'm Dushyanth Bandaru.</h1>
 
 <div align="center">
   <img src="img/devops_banner.jpeg" alt="DevOps Banner - Infinity Symbol with Data Visualizations" />
@@ -23,7 +23,7 @@
 - Kubernetes deployments
 - Observability & monitoring (Grafana, Prometheus)
 
-📫 Reach me at: **dush.devops@gmail.com**
+📫 Reach me at: **dushbanda99@gmail.com**
 
 ---
 
