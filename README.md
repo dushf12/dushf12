@@ -8,7 +8,7 @@
   <a href="https://github.com/dushf12">
     <img src="https://img.shields.io/github/followers/dushf12?label=Follow&style=social" />
   </a>
-  <a href="https://www.linkedin.com/in/dushyanthb/">
+  <a href="https://www.linkedin.com/in/dushyanthbandaru/">
     <img src="https://img.shields.io/badge/LinkedIn-Dushyanth%20B-blue?logo=linkedin&style=flat-square" />
   </a>
 </p>
