@@ -1,8 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Dushyanth B.</h1>
 
 <div align="center">
-  <!-- Replace this placeholder with your photo-enhanced banner when ready -->
-  <img src="https://raw.githubusercontent.com/dushf12/dushf12/main/banner-placeholder.png" alt="DevOps Banner" />
+  <img src="https://raw.githubusercontent.com/dushf12/dushf12/main/devops-banner.png" alt="DevOps Banner - Infinity Symbol with Data Visualizations" />
 </div>
 
 <p align="center">
