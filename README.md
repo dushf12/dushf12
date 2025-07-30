@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Dushyanth B.</h1>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/dushf12/dushf12/main/devops-banner.png" alt="DevOps Banner - Infinity Symbol with Data Visualizations" />
+  <img src="img/devops_banner.jpeg" alt="DevOps Banner - Infinity Symbol with Data Visualizations" />
 </div>
 
 <p align="center">
